@@ -1,0 +1,151 @@
+body{
+    background-color: darkgray;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+}
+
+.logo_esme{
+    width: 20em;
+    height: auto;
+}
+
+.logo{
+    margin-left: 0%;
+    width: 20em;
+    height: auto;
+}
+
+#contact{
+    background-color: white;
+    text-align: center;
+    font-size: 2em;
+    text-decoration: underline;
+}
+
+footer{
+    font-size: 1.5em;
+    
+}
+
+.etudes{
+    background-color: white;
+    text-align: left;
+    font-size: 2em;
+}
+
+.prez{
+    text-align: left;
+    text-decoration: underline;
+    font-size: 1.5em;
+}
+
+.logo_info{
+    float: left;
+    width: 10em;
+    height: auto;
+}
+
+.ecole{
+    float: left;
+    font-size: 1em;
+}
+
+#table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #table td, #table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #table tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #table tr:hover {background-color: #ddd;}
+  
+  #table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+.mais{
+    text-decoration: underline;
+    font-size: 1em;
+    font-style: italic;
+}
+
+.Sun_ken{
+    float: left;
+    font-size: 1em;
+    text-align: center;
+}
+
+.img_sun{
+    float: left;
+    width: 10em;
+    height: auto;
+}
+
+#titre{
+    text-decoration: underline;
+    font-size: 2em;
+    font-style: italic;
+    text-align: center;
+}
+
+.second_manga{
+    float: left;
+    text-decoration: underline;
+}
+
+.multibar{
+    width: 80em;
+    height: auto;
+}
+
+.music{
+    text-align: center;
+    font-size: large;
+}
+.img_king{
+    float: right;
+    width: 10em;
+    height: auto;
+}
+.kingdom{
+    float: right;
+    font-size: 1em;
+    text-align: center;
+}
+
+.text_in{
+    font-size: 1.5em;
+}
